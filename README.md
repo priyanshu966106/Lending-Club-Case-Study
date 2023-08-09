@@ -11,11 +11,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- 
 
-The company's loan evaluation process leads to two possible outcomes. Upon loan approval, three scenarios emerge:
+> The company's loan evaluation process leads to two possible outcomes. Upon loan approval, three scenarios emerge:
 
-Borrowers who fully repay both the principal and interest are termed "Fully Paid."
+> Borrowers who fully repay both the principal and interest are termed "Fully Paid."
 "Current" status is given to those who are actively repaying their installments, indicating a non-default situation.
 If borrowers fail to make timely payments for an extended period, they are labeled as "Charged-off," signifying loan default.
 Conversely, for rejected loans, no transaction history exists in the dataset due to the absence of approval, resulting in missing data for those applicants. These distinctions guide the company's understanding of repayment patterns and default risk assessment.
@@ -23,7 +22,6 @@ Conversely, for rejected loans, no transaction history exists in the dataset due
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-
  > The following factors highly determine the loan defaulting outcomes 
  * Interest Rate 
  * Annual Income 
@@ -56,7 +54,7 @@ This project was inspired by UpGrad IITB Programme as a case study for the Machi
 
 
 ## Contact
-Created by [@priyanshu966106] - feel free to contact me!
+Created by [Priyanshu Kumar](https://github.com/priyanshu966106) - feel free to contact me!
 
 
 <!-- Optional -->
