@@ -24,13 +24,13 @@ Conversely, for rejected loans, no transaction history exists in the dataset due
 
 ## Conclusions
 
-The following factors highly determine the loan defaulting outcomes 
+ > The following factors highly determine the loan defaulting outcomes 
  * Interest Rate 
  * Annual Income 
  * DTI
  * Verification Status
 
-Other Factors affecting the loan outcomes 
+> Other Factors affecting the loan outcomes 
 * Grade G and F loans are the most risky loans to be given
 * Most of the defaults happened in the later months of the year like sep, out, nov, dec
 * Credit card and debt consolidation being the major risky sectors for giving out the loan
@@ -44,10 +44,10 @@ Other Factors affecting the loan outcomes
 
 
 ## Technologies Used
-Pandas - version 1.3.4
-NumPy - version 1.20.3
-Seaborn - version 0.11.2
-MatplotLib - version 3.4.3
+Pandas - version 1.5.3
+NumPy - version 1.23.5
+Seaborn - version 0.12.2
+MatplotLib - version 3.7.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
